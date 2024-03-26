@@ -1,0 +1,2 @@
+cloud computing is nothing but virtual cloud
+public,private,hybride are types of cloud
